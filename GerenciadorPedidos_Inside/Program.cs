@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic; //Utilizado para criar a lista
 using System.Linq; //Utilizado para filtrar a lista
 
@@ -369,7 +369,10 @@ namespace GerenciadorPedidos
         // Função para sair do programa
         public static void Sair()
         {
-            Console.WriteLine("Obrigado por usar o sistema de pedidos. Até logo!\n");
+                Console.WriteLine("Obrigado por usar o sistema de pedidos. Até logo!\n");
+                Console.WriteLine("Pressione qualquer tecla para sair...");
+                Console.ReadKey(); // Aguarda uma tecla para fechar 
         }
+
     }
 }
