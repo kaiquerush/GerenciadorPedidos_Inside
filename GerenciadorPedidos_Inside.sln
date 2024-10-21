@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciadorPedidos_Inside", "GerenciadorPedidos_Inside\GerenciadorPedidos_Inside.csproj", "{FD83A09B-CB43-43CB-8681-B93D22158352}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD83A09B-CB43-43CB-8681-B93D22158352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD83A09B-CB43-43CB-8681-B93D22158352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD83A09B-CB43-43CB-8681-B93D22158352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD83A09B-CB43-43CB-8681-B93D22158352}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97CD2652-74AD-4151-A69A-384CEFAE003F}
+	EndGlobalSection
+EndGlobal
